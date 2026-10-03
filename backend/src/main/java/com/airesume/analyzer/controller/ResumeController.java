@@ -22,7 +22,8 @@ import java.util.Map;
 @CrossOrigin(
         origins = {
                 "http://127.0.0.1:5500",
-                "http://localhost:5500"
+                "http://localhost:5500",
+                "https://leafy-fudge-7f3836.netlify.app"
         }
 )
 @RequestMapping("/api/resumes")
