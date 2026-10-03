@@ -3,7 +3,7 @@
    Frontend JavaScript
    ========================================================= */
 
-const API_BASE_URL = "http://localhost:8080/api";
+const API_BASE_URL = "https://ai-resume-analyzer-s7t7.onrender.com/api";
 
 document.addEventListener("DOMContentLoaded", function () {
   /* =====================================================
